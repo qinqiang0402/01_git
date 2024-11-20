@@ -12,6 +12,7 @@ depth = 15
 
 # Sierpiński triangle
 
+
 > The **Sierpinski triangle** (also with the original orthography Sierpiński), also called the **Sierpinski gasket** or **Sierpinski sieve**, is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles.
 
 ```{r}
